@@ -4,4 +4,4 @@
  onde agora estou apredendo de forma pratica a usar
  o git no linux atraves de tutoriais.
  
- programas em python
+ programas em python.
